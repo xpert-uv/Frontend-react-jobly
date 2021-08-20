@@ -1,0 +1,45 @@
+.JobCard {
+    border: solid 1px darkgrey;
+    width: inherit;
+    text-align: left;
+    padding: 5px 20px;
+    margin: 5px auto;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.JobCard h2 {
+    margin-bottom: 0;
+}
+
+.JobCard-lower {
+    display: flex;
+}
+
+.JobCard p {
+    line-height: .8;
+}
+
+.JobCard-details {
+    width: 80%
+}
+
+.JobCard-apply {
+    width: 20%;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.JobCard button {
+    background-color: blueviolet;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.JobCard button:disabled {
+    background-color: lavender;
+    color: gray;
+    border: darkgrey;
+}

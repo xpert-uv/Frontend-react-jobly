@@ -1,0 +1,47 @@
+.ApplicationCard {
+    border: solid 1px darkgrey;
+    width: inherit;
+    text-align: left;
+    padding: 5px 20px;
+    margin: 5px auto;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.ApplicationCard h2 {
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.ApplicationCard-lower {
+    display: flex;
+}
+
+.ApplicationCard p {
+    line-height: .8;
+    margin-top: 10px;
+}
+
+.ApplicationCard-details {
+    width: 80%
+}
+
+.ApplicationCard-update {
+    width: 20%;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.ApplicationCard button {
+    background-color: blueviolet;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.ApplicationCard button:disabled {
+    background-color: lavender;
+    color: gray;
+    border: darkgrey;
+}

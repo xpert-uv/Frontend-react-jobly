@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  margin: auto;
+  background-color: lavender;
+  min-height: 100vh;
+}
+
+.Content {
+  width: 80%;
+  max-width: 800px;
+  margin: auto;
+  padding-top: 15px;
+}
+
+button {
+  background-color: blueviolet;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 5px;
+  margin: auto;
+}

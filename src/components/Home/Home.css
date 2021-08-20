@@ -1,0 +1,16 @@
+.Home {
+    margin-top: 60px;
+}
+
+.Home p {
+    font-size: large;
+}
+
+.Home button {
+    font-size: x-large;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: white;
+    margin: 5px;
+    padding: 5px 10px;
+}

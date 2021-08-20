@@ -1,0 +1,23 @@
+.SearchBox {
+    width: 100%;
+}
+
+.SearchBox form {
+    width: inherit;
+    display: flex;
+}
+
+.SearchBox input {
+    width: 80%;
+    font-size: x-large;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.SearchBox button {
+    width: 20%;
+    font-size: x-large;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: white;
+}

@@ -1,0 +1,15 @@
+.Signup input {
+    font-size: x-large;
+    border-radius: 5px;
+    margin: 5px;
+    padding-left: 10px;
+}
+
+.Signup button {
+    font-size: x-large;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: white;
+    margin: 5px;
+    padding: 5px 10px;
+}

@@ -1,0 +1,16 @@
+.CompanyCard {
+    border: solid 1px darkgrey;
+    margin: 5px auto;
+    text-align: left;
+    padding: 5px 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.CompanyCard a {
+    text-decoration: none;
+}
+
+.CompanyCard p {
+    color: darkslateblue;
+}
